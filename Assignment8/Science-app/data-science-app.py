@@ -20,7 +20,7 @@ if uploadedFile is not None:
         st.subheader("About this Website : ")
         st.write("This website shows Lionel Messi methods and which methods he used it and it shows how many goals Messi has scored away from home in different years")
         st.write("")
-        st.sidebar.image("messi.jpg",caption="Lionel Messi")
+        
     with col1:
         st.subheader("Messi Score Away")
         df = data['Type'].value_counts().rename_axis('Type').to_frame('counts').reset_index()
