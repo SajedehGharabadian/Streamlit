@@ -16,7 +16,7 @@ streamlit run main.py
 
 ## Counter app 
 
-This counter app deploy by [liara](liara.ir)
+This counter app deploy by [liara](https://liara.ir/))
 
 ◻️ URL: 
 
