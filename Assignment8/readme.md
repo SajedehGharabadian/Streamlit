@@ -13,3 +13,16 @@ pip install -r requirements.txt
 ```
 streamlit run main.py
 ```
+
+## Counter app 
+
+This counter app deploy by [liara](liara.ir)
+
+◻️ URL: 
+
+
+## Science app
+
+This website deploy by [Streamlit](https://share.streamlit.io/)
+
+◻️
