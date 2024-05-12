@@ -18,11 +18,11 @@ streamlit run main.py
 
 This counter app deploy by [liara](https://liara.ir/)
 
-◻️ URL: 
+◻️URL: 
 
 
 ## Science app
 
 This website deploy by [Streamlit](https://share.streamlit.io/)
 
-◻️
+◻️URL: https://persianlisenceplatedete-gczlpjiufsqbcfkldsick4.streamlit.app/
